@@ -4,14 +4,14 @@
 
   <p>
     Email:
-    <a href="mailto:yourmail@gmail.com">
-      yourmail@gmail.com
+    <a href="mailto:prabat0212@gmail.com">
+      prabat0212@gmail.com
     </a>
   </p>
 
   <p>
     LinkedIn:
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL/"
+    <a href="https://www.linkedin.com/in/prabavathy-gurumurthy-743629216/"
        target="_blank">
       View My LinkedIn Profile
     </a>
@@ -19,10 +19,9 @@
 
   <p>
     GitHub:
-    <a href="https://github.com/YOUR-GITHUB-USERNAME"
+    <a href="https://github.com/prabat0212-spec/Prabat0212Work/"
        target="_blank">
-      View My GitHub
+      View My GitHub Projects
     </a>
   </p>
 </section>
-# Prabat0212Work
